@@ -199,7 +199,7 @@ onMounted(async () => {
   align-items: center;
   justify-content: center;
   gap: var(--logo-gap);
-  margin-bottom: 16px;
+  margin-bottom: 28px;
   margin-top: 8px;
 }
 
