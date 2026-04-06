@@ -105,7 +105,7 @@ onMounted(async () => {
 
 .logo-row {
   text-align: center;
-  margin-bottom: 16px;
+  margin-bottom: 28px;
   margin-top: 8px;
 }
 
