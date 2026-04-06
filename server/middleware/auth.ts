@@ -22,6 +22,7 @@ export default defineEventHandler(async (event) => {
   // 公共API路径
   const publicApiPaths = [
     '/api/auth/login',
+    '/api/auth/register', // 用户注册
     '/api/auth/bind', // 账号绑定
     '/api/auth/oauth-register',
     '/api/auth/2fa/verify',
