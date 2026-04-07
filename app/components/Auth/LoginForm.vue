@@ -8,7 +8,7 @@
 
     <form :class="['auth-form', { 'has-error': !!error }]" @submit.prevent="handleLogin">
       <div class="form-group">
-        <label for="username">账号名</label>
+        <label for="username">账号名称</label>
         <div class="input-wrapper">
           <svg
             class="input-icon"
